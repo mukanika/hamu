@@ -1,0 +1,15 @@
+# アプリケーション名
+/muka/muka
+/hamu
+
+## 環境構築
+-Dockerのビルドからマイグレーションまで記述する
+
+## 使用技術（実行環境）
+Laravel 8.x
+
+## ER図
+![](index.drawio.png)
+
+## URL
+開発環境:http://localhost
